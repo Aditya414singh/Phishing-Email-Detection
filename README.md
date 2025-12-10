@@ -3,7 +3,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="Images/Email_phishing_Detection_Cover.png"/>
+  <img src="Images/Email_spam_Detection_Cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
