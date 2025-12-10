@@ -1,14 +1,14 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">Email Spam Detection</h1>
+<h1 align="center">Email phishing Detection</h1>
 
 <!-- HEADER -->
 <p align="center">
-  <img src="Images/Email_Spam_Detection_Cover.png"/>
+  <img src="Images/Email_phishing_Detection_Cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
-Email spam detection system is used to detect email spam using Machine Learning technique called Natural Language Processing and Python, where we have a dataset contain a lot of emails by extract important words and then use naive classifier we can detect if this email is spam or not.
+Email phishing detection system is used to detect email phishing using Machine Learning technique called Natural Language Processing and Python, where we have a dataset contain a lot of emails by extract important words and then use naive classifier we can detect if this email is phishing or not.
 
 <!-- PREREQUISTIES -->
 ## <br>**➲ Prerequisites**
@@ -27,7 +27,7 @@ Install all required packages :
 <!-- THE DATASET -->
 ## <br>**➲ The Dataset**
 Human activites dataset contain about 5728 record which is a sample of an email
-and a target column "spam" which describe the state of an email spam or not.<br>
+and a target column "phishing" which describe the state of an email phishing or not.<br>
 
 <!-- CODING SECTIONS -->
 ## <br>**➲ Coding Sections**
@@ -49,19 +49,15 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 ## ➲ Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
+   git clone https://github.com/omaarelsherif/Email-phishing-Detection-Using-Machine-Learning.git
    ```
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
 <!-- REFERENCES -->
 ## <br>**➲ References**
 These links may help you to better understanding of the project idea and techniques used :
-1. Spam detection in machine learning : https://bit.ly/3nwiKtA
+1. phishing detection in machine learning : https://bit.ly/3nwiKtA
 2. Naive-bayes algorithm : https://bit.ly/3zc9SLH
 3. Model evaluation : https://bit.ly/3B12VOO
 
-<!-- CONTACT -->
-## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
+
